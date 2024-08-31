@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057441886658",
+    "project_id": "hrm-firebase-fb796",
+    "storage_bucket": "hrm-firebase-fb796.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057441886658:android:441294d6ea7da24e69a65b",
+        "android_client_info": {
+          "package_name": "com.example.mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmQbXsSEluezI6mk9HyN8r1-Ht2EkPI-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
